@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_131"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/javaEE_test/HelloEJB-HelloEJBRemoteOneToMany/lib/hibernate-core-5.3.13.Final.jar"/>
+	<classpathentry kind="lib" path="D:/javaEE_test/HelloEJB-HelloEJBRemoteOneToMany/lib/hibernate-entitymanager-5.3.13.Final.jar"/>
+	<classpathentry kind="lib" path="D:/javaEE_test/HelloEJB-HelloEJBRemoteOneToMany/lib/hibernate-envers-5.3.13.Final.jar"/>
+	<classpathentry kind="lib" path="D:/javaEE_test/HelloEJB-HelloEJBRemoteOneToMany/lib/javax.annotation.jar"/>
+	<classpathentry kind="lib" path="D:/javaEE_test/HelloEJB-HelloEJBRemoteOneToMany/lib/javax.ejb.jar"/>
+	<classpathentry kind="lib" path="D:/javaEE_test/HelloEJB-HelloEJBRemoteOneToMany/lib/javax.jms.jar"/>
+	<classpathentry kind="lib" path="D:/javaEE_test/HelloEJB-HelloEJBRemoteOneToMany/lib/javax.persistence.jar"/>
+	<classpathentry kind="lib" path="D:/javaEE_test/HelloEJB-HelloEJBRemoteOneToMany/lib/javax.resource.jar"/>
+	<classpathentry kind="lib" path="D:/javaEE_test/HelloEJB-HelloEJBRemoteOneToMany/lib/javax.servlet.jsp.jstl.jar"/>
+	<classpathentry kind="lib" path="D:/javaEE_test/HelloEJB-HelloEJBRemoteOneToMany/lib/javax.transaction.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
